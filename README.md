@@ -49,7 +49,7 @@ Alternatively, just put it in the folder next to the local configuration file.
 ### Configure local
 Copy the configuration template:
 ```
-cp config.template.json config.json
+cp config_template.json config.json
 ```
 
 Configure the accounts to be used in `config.json`.
